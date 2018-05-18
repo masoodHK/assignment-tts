@@ -1,0 +1,23 @@
+{
+    "name": "Ramadan Timings app",
+    "short_name": "Ramadan App",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#b62f67",
+    "icons": [
+        {
+            "src": "images/icon-180x180.png",
+            "sizes": "168x168",
+            "type": "image/png"
+        }, {
+            "src": "images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }, {
+            "src": "images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
